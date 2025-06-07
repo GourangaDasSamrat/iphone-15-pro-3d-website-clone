@@ -90,14 +90,22 @@
     </a>
   </h3>
 
-  <a href="https://iphone-15-pro-3d-website-clone.vercel.app/" target="_blank">
-    <img src="public/assets/images/frame.png" width="600" style="border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
-  </a>
-
   <p>
     <i>✨ Experience the next generation of web development</i><br>
     <a href="https://iphone-15-pro-3d-website-clone.vercel.app/" target="_blank">iphone-15-pro-3d-website-clone.vercel.app</a>
   </p>
+
+  <h3>📺 Demo Video</h3>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 10px; margin: 20px 0;">
+    <iframe
+      src="https://www.youtube.com/embed/wXyBoHjgNcI"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      title="iPhone 15 Pro Website Clone Demo"
+    ></iframe>
+  </div>
 </div>
 
 <div align="center">
@@ -223,8 +231,6 @@
 ![Accessibility](https://img.shields.io/badge/Accessibility-100-00C853?style=for-the-badge&logo=lighthouse&logoColor=white)
 ![Best Practices](https://img.shields.io/badge/Best_Practices-100-00C853?style=for-the-badge&logo=lighthouse&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-100-00C853?style=for-the-badge&logo=lighthouse&logoColor=white)
-
-<img src="public/assets/images/frame.png" width="400" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" />
 
 </div>
 
