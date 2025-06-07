@@ -81,15 +81,39 @@
 - 📦 Efficient asset loading and management
 - 🛠️ Built with industry best practices
 
-## 🎥 Demo
+## 🌟 Live Demo
+
+<div align="center">
+  <h3>
+    <a href="https://iphone-15-pro-3d-website-clone.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/LIVE_DEMO-4f46e5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    </a>
+  </h3>
+
+  <a href="https://iphone-15-pro-3d-website-clone.vercel.app/" target="_blank">
+    <img src="public/assets/images/frame.png" width="600" style="border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
+  </a>
+
+  <p>
+    <i>✨ Experience the next generation of web development</i><br>
+    <a href="https://iphone-15-pro-3d-website-clone.vercel.app/" target="_blank">iphone-15-pro-3d-website-clone.vercel.app</a>
+  </p>
+</div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <h3>🎬 Demo Video Coming Soon</h3>
-        <img src="public/assets/images/frame.png" width="600" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" />
-        <p><i>Experience the future of web development</i></p>
+        <h4>🎥 Demo Highlights</h4>
+        • Interactive 3D Model<br>
+        • Stunning Animations<br>
+        • Responsive Design
+      </td>
+      <td align="center">
+        <h4>🎮 Controls</h4>
+        • Drag to Rotate<br>
+        • Pinch to Zoom<br>
+        • Double-tap to Reset
       </td>
     </tr>
   </table>
@@ -210,77 +234,127 @@
 
 ### ⚡ Core Web Vitals & Performance Metrics
 
-<table>
-  <tr>
-    <th>Metric</th>
-    <th>Score</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td>First Contentful Paint</td>
-    <td>< 1s</td>
-    <td>🟢 Excellent</td>
-  </tr>
-  <tr>
-    <td>Largest Contentful Paint</td>
-    <td>< 2.5s</td>
-    <td>🟢 Excellent</td>
-  </tr>
-  <tr>
-    <td>Total Blocking Time</td>
-    <td>< 150ms</td>
-    <td>🟢 Excellent</td>
-  </tr>
-  <tr>
-    <td>Cumulative Layout Shift</td>
-    <td>< 0.1</td>
-    <td>🟢 Excellent</td>
-  </tr>
-</table>
-
-</div>
-
-## ⚡ Quick Start Guide
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Setup_Time-~3_min-4f46e5?style=for-the-badge&logo=timer&logoColor=white" />
-</div>
-
-<table align="center">
-  <tr>
-    <td>
-      <h3>📋 Prerequisites</h3>
-      <img src="https://img.shields.io/badge/Node.js-≥_14.0.0-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/npm-≥_6.0.0-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <h3>1️⃣ Clone Repository</h3>
-        <img src="https://img.shields.io/badge/git-clone-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-        <pre>git clone https://github.com/GourangaDasSamrat/iphone-15-pro-3d-website-clone.git</pre>
+        <img src="https://img.shields.io/badge/FCP-<1s-00C853?style=for-the-badge&logo=speedometer&logoColor=white" />
+        <br/>
+        <small>First Contentful Paint</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/LCP-<2.5s-00C853?style=for-the-badge&logo=speedometer&logoColor=white" />
+        <br/>
+        <small>Largest Contentful Paint</small>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <h3>2️⃣ Install Dependencies</h3>
-        <img src="https://img.shields.io/badge/npm-install-CB3837?style=for-the-badge&logo=npm&logoColor=white" /><br>
-        <pre>cd iphone-15-pro-3d-website-clone && npm install</pre>
+        <img src="https://img.shields.io/badge/TBT-<150ms-00C853?style=for-the-badge&logo=speedometer&logoColor=white" />
+        <br/>
+        <small>Total Blocking Time</small>
       </td>
-    </tr>
-    <tr>
       <td align="center">
-        <h3>3️⃣ Start Development Server</h3>
-        <img src="https://img.shields.io/badge/vite-dev_server-646CFF?style=for-the-badge&logo=vite&logoColor=white" /><br>
-        <pre>npm run dev</pre>
+        <img src="https://img.shields.io/badge/CLS-<0.1-00C853?style=for-the-badge&logo=speedometer&logoColor=white" />
+        <br/>
+        <small>Cumulative Layout Shift</small>
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Mobile_Score-90+-4f46e5?style=for-the-badge&logo=mobile&logoColor=white" />
+  <img src="https://img.shields.io/badge/Desktop_Score-95+-4f46e5?style=for-the-badge&logo=desktop&logoColor=white" />
 </div>
+
+</div>
+
+## 🚀 Installation Guide
+
+<div align="center">
+  <a href="https://stackblitz.com/github/GourangaDasSamrat/iphone-15-pro-3d-website-clone">
+    <img src="https://img.shields.io/badge/Open_in_StackBlitz-1B1B1D?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Open in StackBlitz" />
+  </a>
+  <a href="https://codesandbox.io/s/github/GourangaDasSamrat/iphone-15-pro-3d-website-clone">
+    <img src="https://img.shields.io/badge/Open_in_CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Open in CodeSandbox" />
+  </a>
+</div>
+
+<br/>
+
+### 📋 Prerequisites
+
+<table>
+<tr>
+<td>
+
+```bash
+Node.js >= 14.0.0
+npm >= 6.0.0
+git
+```
+
+</td>
+<td>
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+</td>
+</tr>
+</table>
+
+### ⚡ Quick Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/GourangaDasSamrat/iphone-15-pro-3d-website-clone.git
+
+# Navigate to project directory
+cd iphone-15-pro-3d-website-clone
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+### 🔧 Available Scripts
+
+<table>
+<tr>
+  <td><b>Command</b></td>
+  <td><b>Description</b></td>
+  <td><b>Environment</b></td>
+</tr>
+<tr>
+  <td><code>npm run dev</code></td>
+  <td>Start the development server</td>
+  <td><code>development</code></td>
+</tr>
+<tr>
+  <td><code>npm run build</code></td>
+  <td>Build for production</td>
+  <td><code>production</code></td>
+</tr>
+<tr>
+  <td><code>npm run preview</code></td>
+  <td>Preview production build</td>
+  <td><code>production</code></td>
+</tr>
+<tr>
+  <td><code>npm run lint</code></td>
+  <td>Lint and fix files</td>
+  <td><code>development</code></td>
+</tr>
+</table>
+
+### 📦 Development Environment
+
+The development server will start at `http://localhost:5173` by default. The application will automatically reload if you change any of the source files.
 
 ### 🛠️ Development Commands
 
